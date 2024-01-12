@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cA4Bjw7+YYfP3QAUNSy+gV9GvLtRqvFpwsO1eCaYfSJpRwliFdkSuL/iLlJKdkxsFUV4j8FDwu2PzxF+ZCqTCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taten\\Source\\Repos\\homework-assignment-1-Tatenda-kk\\Ksu.Cis300.SpiderSolitaire\\Ksu.Cis300.SpiderSolitaire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taten\\.nuget\\packages\\ksu.cs.codeanalyzers\\1.0.3.2\\ksu.cs.codeanalyzers.1.0.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
